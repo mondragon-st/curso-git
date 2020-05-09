@@ -1,0 +1,8 @@
+Iniciarlizar un proyecto en git
+-- git init
+
+Ver archivos que conforman el repositorio
+-- git status
+
+Agregar los archivos para su indexacion al repositorio
+-- git add
